@@ -1,8 +1,8 @@
-How long did you spend on the coding test?
+1. How long did you spend on the coding test?
 
 Ans: 2 days
 
-What was the most useful feature that was added to the latest version of your chosen language? Please include a snippet of code that shows how you've used it.
+2. What was the most useful feature that was added to the latest version of your chosen language? Please include a snippet of code that shows how you've used it.
 
 Ans: Search was the most useful feature that was added to the latest version.
 ```javascript
@@ -21,7 +21,7 @@ Ans: Search was the most useful feature that was added to the latest version.
                 </div>
 ```
 
-How would you track down a performance issue in production? Have you ever had to do this?
+3. How would you track down a performance issue in production? Have you ever had to do this?
 
 Ans: I have not done anything upto production level but according to me the main problem could be-
 
@@ -33,7 +33,7 @@ Check Dependencies: Ensure third-party APIs, libraries, or services are performi
 
 Infrastructure: Verify if the problem lies in server capacity, misconfigured load balancers, or network issues.
 
-If you had more time, what additional features or improvements would you consider adding to the task management application?
+4. If you had more time, what additional features or improvements would you consider adding to the task management application?
 
 Ans: Gamification and Motivation
 
