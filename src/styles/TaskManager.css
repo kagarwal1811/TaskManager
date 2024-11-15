@@ -1,0 +1,11 @@
+  /* src/styles/TaskManager.css */
+  .dashboard {
+    max-width: 600px;
+    background: #fff;
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  .task-list h2 {
+    color: #1e90ff;
+  }

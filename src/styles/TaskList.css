@@ -1,0 +1,21 @@
+/* src/components/TaskList.css */
+.task-list {
+    display: flex;
+    gap: 20px;
+    padding: 20px;
+    justify-content: center;
+  }
+  
+  .task-column {
+    flex: 1;
+    /* background-color: #f5f5f5; */
+    padding: 15px;
+    border-radius: 8px;
+    /* box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); */
+  }
+  
+  .task-column h2 {
+    text-align: center;
+    color: #333;
+  }
+  
